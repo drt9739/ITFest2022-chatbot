@@ -7,3 +7,6 @@
 1. pymorphy2
 2. pyTelegramBotAPI
 
+
+
+![Untitled-1](https://user-images.githubusercontent.com/87109163/160791598-7f933979-b4a0-4424-a479-58981ba3bdfb.png)
