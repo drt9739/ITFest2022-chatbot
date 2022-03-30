@@ -3,10 +3,6 @@
 Создан по заданию базового уровня https://itfest-chita.ru/tasks/chat.pdf     
 
 
-*Библиотеки к установке*:  
-1. pymorphy2
-2. pyTelegramBotAPI
-
 
 
 
